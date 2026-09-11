@@ -1,0 +1,101 @@
+Order_ID,Product,Category,Price,Quantity,Order_Date,City
+ORD001,Kaos Polos,Fashion,90000,1,2024-01-27,Medan
+ORD002,Sweater Hoodie,Fashion,150000,5,2024-03-19,Surabaya
+ORD003,Headset Bluetooth,Electronics,320000,1,2024-02-20,Jakarta
+ORD004,Mouse Gaming,Electronics,180000,2,2024-02-04,Bandung
+ORD005,Mouse Gaming,Electronics,180000,3,2024-01-11,Surabaya
+ORD006,Headset Bluetooth,Electronics,320000,1,2024-01-12,Medan
+ORD007,Botol Minum,Sports,80000,3,2024-01-14,Semarang
+ORD008,Smartwatch,Electronics,550000,1,2024-03-01,Surabaya
+ORD009,Mouse Gaming,Electronics,180000,2,2024-02-09,Surabaya
+ORD010,Keyboard Wireless,Electronics,250000,3,2024-01-12,Medan
+ORD011,Mouse Gaming,Electronics,180000,5,2024-01-12,Semarang
+ORD012,Kaos Polos,Fashion,90000,5,2024-01-29,Bandung
+ORD013,Headset Bluetooth,Electronics,320000,2,2024-01-16,Medan
+ORD014,Sepatu Running,Sports,300000,1,2024-03-08,Medan
+ORD015,Smartwatch,Electronics,550000,5,2024-02-11,Surabaya
+ORD016,Kaos Polos,Fashion,90000,5,2024-04-24,Bandung
+ORD017,Kaos Polos,Fashion,90000,5,2024-01-02,Bandung
+ORD018,Smartwatch,Electronics,550000,1,2024-01-06,Semarang
+ORD019,Botol Minum,Sports,80000,4,2024-02-29,Bandung
+ORD020,Celana Jeans,Fashion,200000,3,2024-02-20,Medan
+ORD021,Sepatu Running,Sports,300000,4,2024-03-11,Surabaya
+ORD022,Sweater Hoodie,Fashion,150000,1,2024-01-30,Semarang
+ORD023,Mouse Gaming,Electronics,180000,1,2024-04-21,Medan
+ORD024,Keyboard Wireless,Electronics,250000,5,2024-02-27,Semarang
+ORD025,Tas Ransel,Fashion,175000,3,2024-01-20,Surabaya
+ORD026,Smartwatch,Electronics,550000,3,2024-03-23,Medan
+ORD027,Sepatu Running,Sports,300000,3,2024-01-17,Jakarta
+ORD028,Kaos Polos,Fashion,90000,5,2024-03-02,Bandung
+ORD029,Sepatu Running,Sports,300000,1,2024-04-02,Semarang
+ORD030,Botol Minum,Sports,80000,4,2024-03-20,Semarang
+ORD031,Kaos Polos,Fashion,90000,2,2024-01-04,Jakarta
+ORD032,Botol Minum,Sports,80000,4,2024-03-23,Bandung
+ORD033,Tas Ransel,Fashion,175000,5,2024-01-21,Semarang
+ORD034,Botol Minum,Sports,80000,5,2024-02-07,Bandung
+ORD035,Smartwatch,Electronics,550000,5,2024-01-07,Bandung
+ORD036,Kaos Polos,Fashion,90000,2,2024-01-28,Semarang
+ORD037,Keyboard Wireless,Electronics,250000,2,2024-04-22,Jakarta
+ORD038,Sepatu Running,Sports,300000,4,2024-02-08,Semarang
+ORD039,Celana Jeans,Fashion,200000,3,2024-01-27,Semarang
+ORD040,Sepatu Running,Sports,300000,1,2024-01-19,Medan
+ORD041,Sepatu Running,Sports,300000,5,2024-01-21,Semarang
+ORD042,Botol Minum,Sports,80000,2,2024-04-15,Surabaya
+ORD043,Celana Jeans,Fashion,200000,1,2024-03-31,Semarang
+ORD044,Celana Jeans,Fashion,200000,3,2024-03-15,Bandung
+ORD045,Keyboard Wireless,Electronics,250000,4,2024-04-22,Bandung
+ORD046,Sepatu Running,Sports,300000,4,2024-04-29,Medan
+ORD047,Kaos Polos,Fashion,90000,1,2024-01-10,Medan
+ORD048,Sweater Hoodie,Fashion,150000,3,2024-01-07,Semarang
+ORD049,Celana Jeans,Fashion,200000,1,2024-01-03,Bandung
+ORD050,Celana Jeans,Fashion,200000,5,2024-02-12,Semarang
+ORD051,Smartwatch,Electronics,550000,3,2024-04-20,Jakarta
+ORD052,Tas Ransel,Fashion,175000,3,2024-03-18,Jakarta
+ORD053,Keyboard Wireless,Electronics,250000,1,2024-04-13,Medan
+ORD054,Botol Minum,Sports,80000,1,2024-04-04,Semarang
+ORD055,Tas Ransel,Fashion,175000,3,2024-03-26,Surabaya
+ORD056,Tas Ransel,Fashion,175000,5,2024-02-14,Semarang
+ORD057,Celana Jeans,Fashion,200000,5,2024-01-23,Jakarta
+ORD058,Sepatu Running,Sports,300000,4,2024-04-09,Medan
+ORD059,Mouse Gaming,Electronics,180000,1,2024-04-26,Surabaya
+ORD060,Sepatu Running,Sports,300000,5,2024-04-19,Bandung
+ORD061,Kaos Polos,Fashion,90000,1,2024-03-06,Surabaya
+ORD062,Headset Bluetooth,Electronics,320000,1,2024-04-23,Medan
+ORD063,Celana Jeans,Fashion,200000,1,2024-01-19,Semarang
+ORD064,Mouse Gaming,Electronics,180000,3,2024-02-22,Bandung
+ORD065,Sepatu Running,Sports,300000,5,2024-01-04,Jakarta
+ORD066,Sepatu Running,Sports,300000,1,2024-02-02,Semarang
+ORD067,Botol Minum,Sports,80000,1,2024-01-24,Bandung
+ORD068,Keyboard Wireless,Electronics,250000,2,2024-01-23,Medan
+ORD069,Keyboard Wireless,Electronics,250000,5,2024-02-08,Surabaya
+ORD070,Sweater Hoodie,Fashion,150000,3,2024-03-30,Semarang
+ORD071,Headset Bluetooth,Electronics,320000,4,2024-03-02,Bandung
+ORD072,Sweater Hoodie,Fashion,150000,5,2024-02-29,Medan
+ORD073,Botol Minum,Sports,80000,3,2024-04-01,Medan
+ORD074,Celana Jeans,Fashion,200000,3,2024-04-20,Surabaya
+ORD075,Sweater Hoodie,Fashion,150000,2,2024-04-04,Medan
+ORD076,Mouse Gaming,Electronics,180000,1,2024-03-25,Surabaya
+ORD077,Kaos Polos,Fashion,90000,5,2024-02-26,Bandung
+ORD078,Mouse Gaming,Electronics,180000,3,2024-02-15,Medan
+ORD079,Kaos Polos,Fashion,90000,5,2024-01-20,Jakarta
+ORD080,Celana Jeans,Fashion,200000,5,2024-04-02,Surabaya
+ORD081,Smartwatch,Electronics,550000,2,2024-02-27,Medan
+ORD082,Sweater Hoodie,Fashion,150000,4,2024-03-01,Medan
+ORD083,Sepatu Running,Sports,300000,3,2024-03-21,Medan
+ORD084,Celana Jeans,Fashion,200000,4,2024-03-11,Semarang
+ORD085,Tas Ransel,Fashion,175000,3,2024-02-06,Bandung
+ORD086,Keyboard Wireless,Electronics,250000,4,2024-04-20,Bandung
+ORD087,Kaos Polos,Fashion,90000,4,2024-04-03,Medan
+ORD088,Keyboard Wireless,Electronics,250000,2,2024-01-23,Surabaya
+ORD089,Keyboard Wireless,Electronics,250000,5,2024-04-02,Medan
+ORD090,Keyboard Wireless,Electronics,250000,5,2024-02-19,Jakarta
+ORD091,Sepatu Running,Sports,300000,5,2024-01-09,Semarang
+ORD092,Mouse Gaming,Electronics,180000,4,2024-01-16,Semarang
+ORD093,Botol Minum,Sports,80000,4,2024-01-01,Bandung
+ORD094,Tas Ransel,Fashion,175000,4,2024-04-27,Jakarta
+ORD095,Kaos Polos,Fashion,90000,2,2024-03-03,Jakarta
+ORD096,Celana Jeans,Fashion,200000,4,2024-03-31,Bandung
+ORD097,Kaos Polos,Fashion,90000,1,2024-01-11,Medan
+ORD098,Smartwatch,Electronics,550000,5,2024-04-16,Semarang
+ORD099,Celana Jeans,Fashion,200000,4,2024-04-03,Jakarta
+ORD100,Celana Jeans,Fashion,200000,1,2024-01-08,Semarang
